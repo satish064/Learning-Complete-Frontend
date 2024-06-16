@@ -1,0 +1,60 @@
+.html {
+  color: #f16528;
+  
+}
+#html {
+    font-size: 32px;
+}
+.css {
+  color: #214ce6;
+}
+#css {
+    font-size: 32px;
+}
+.js {
+  color: #fcd83c;
+}
+#js {
+    font-size: 32px;
+}
+
+.react {
+  color: #00d8ff;
+}
+#react {
+    font-size: 32px;
+}
+
+.tailwind {
+  color: #13b9b7;
+}
+#tailwind {
+    font-size: 32px;
+}
+
+/* [satish="p"] {
+    background-color: orange;
+} */
+
+[satish="p"]:hover {
+    color: orange
+}
+[class] {
+    /* background-color: red; */
+}
+
+[id] {
+    /* background-color: blue; */
+}
+li {
+    font-weight: 700;
+}
+
+.web p {
+    background-color: #aa0011;
+}
+
+h1:hover {
+    color: red;
+}
+
