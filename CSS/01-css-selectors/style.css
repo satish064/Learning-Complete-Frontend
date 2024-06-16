@@ -39,13 +39,15 @@
 [satish="p"]:hover {
     color: orange
 }
-[class] {
-    /* background-color: red; */
-}
 
-[id] {
-    /* background-color: blue; */
-}
+/* [class] {
+     background-color: red; 
+} */
+
+/* [id] {
+     background-color: blue; 
+} */
+
 li {
     font-weight: 700;
 }
