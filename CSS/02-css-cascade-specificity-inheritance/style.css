@@ -1,4 +1,10 @@
-#html {
+/* This line for increasing specificity */
+#html#html#html#html#html {
+    background-color: red;
+}
+
+
+#html.html {
     background-color: deeppink;
 }
 
