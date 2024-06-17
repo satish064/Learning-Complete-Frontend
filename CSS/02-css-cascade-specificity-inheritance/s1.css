@@ -1,0 +1,14 @@
+body {
+    color: greenyellow;
+}
+
+ul {
+    font-weight: 700;
+    font-size: 32px;
+    font-style: italic;
+    font-family: cursive;
+}
+
+button {
+    font-family: inherit;
+}
