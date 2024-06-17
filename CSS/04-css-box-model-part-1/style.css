@@ -1,0 +1,37 @@
+body {
+    /* height: 600px; */
+}
+
+
+/* .parent {
+    width: 800px;
+    height: 50%;
+} */
+
+.one {
+    background-color: aquamarine;
+    width: 300px;
+    height: 200%;
+    padding: 10px;
+}
+
+.one-chlid {
+    width: 50%;
+}
+
+/* 
+.one {
+    background-color: aqua;
+    /* Fixed width */
+    /* width: 500px; */
+    /* width: 50%; */
+    /* word-break: normal; */
+    max-width: 500px;
+    /* height: 100px; */
+    min-height: 100px;
+
+} */
+
+.two {
+    background-color: chartreuse;
+}
