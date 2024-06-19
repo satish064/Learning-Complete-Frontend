@@ -1,0 +1,58 @@
+/* Universal Selector */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    
+    margin: 0px;
+}
+
+p {
+    margin: 0px;
+}
+.one {
+    background-color: aquamarine;
+    color: blueviolet;
+    width: 250px;
+    height: 250px;
+    padding: 25px;
+    border: 4px solid;
+    border-radius: 10px;
+    margin: 20px;
+    overflow: hidden;
+    border: 10px solid blue;
+    outline: 50px solid black;
+}
+
+.two {
+    color: darkcyan;
+    width: 250px;
+    height: 250px;
+    padding: 25px;
+    background-color: chartreuse;
+    border: 4px solid blue;
+    outline: 50px solid red;
+    border-radius: 50%;
+    margin: 20px;
+    
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+    /* margin-top: -56px; */
+    border-radius: 50%;
+    
+    /* overflow: hidden; */
+
+}
+
+/* img {
+    width: 100%;
+    height: 500px;
+    
+    margin-top: -56px;
+    object-fit: cover;
+    border-radius: 100%;
+} */

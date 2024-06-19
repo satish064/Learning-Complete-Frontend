@@ -1,0 +1,22 @@
+/* html {
+    height: 500px;
+} */
+
+
+body {
+    margin: 0;
+    /* height: 50%; */
+}
+
+section {
+    background-color: aqua;
+    width: 400px;
+    /* height: 50%; */
+}
+.box {
+    background-color: cornsilk;
+    width: 50%;
+    padding: 10%;
+    margin: 10%;
+    border: 10% solid red;
+}
