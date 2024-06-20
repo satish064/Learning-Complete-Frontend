@@ -1,23 +1,15 @@
-
-
-
-li {
-  background-color: green;
+body {
+  margin: 0;
 }
 
-#html {
-  background-color: pink;
-}
-
-.html {
-  background-color: blueviolet;
-}
-li {
-  background-color: orange !important;
-}
-li {
-  background-color: yellow;
-}
-li {
-  background-color: pink;
+.one {
+  outline: 50px solid greenyellow;
+  border-radius: 50%;
+  box-sizing: border-box;
+  padding: 50px;
+  max-width: 300px;
+  min-height: 300px;
+  margin: 50px;
+  border: 10px solid hotpink;
+  background-color: chartreuse;
 }

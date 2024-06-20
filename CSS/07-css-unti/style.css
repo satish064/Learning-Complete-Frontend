@@ -5,18 +5,41 @@
 
 body {
     margin: 0;
+    width: 300px;
     /* height: 50%; */
 }
 
 section {
     background-color: aqua;
-    width: 400px;
+    width: 50vw;
+    padding: 10vw;
+    border: 2vw solid hotpink;
+    font-size: 5vw;
+    /* height: 50vh; */
+    /* width: 30vw; */
+
     /* height: 50%; */
 }
-.box {
+
+/* h1 {
+    box-sizing: border-box;
+    display: inline-block;
     background-color: cornsilk;
     width: 50%;
     padding: 10%;
     margin: 10%;
-    border: 10% solid red;
+    Invaild property border: 10% solid red;
+    border: 10px solid red;
+    font-size: 50%;
+} */
+.box {
+    box-sizing: border-box;
+    background-color: cornsilk;
+    width: 50%;
+    padding: 10%;
+    /* margin: 10%; */
+    margin-top: 50px solid black;
+    /*Invaild property border: 10% solid red; */
+    border: 10px solid red;
+    font-size: 50%;
 }
