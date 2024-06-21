@@ -2,6 +2,9 @@ body {
     margin: 0;
 }
 
+#hw {
+    display: none;
+}
 .inline-block {
     background-color: cyan;
     display: inline-block;
@@ -39,15 +42,29 @@ body {
 } */
 
 
-
-/* div {
+/*
+ div {
     width: 50%;
     background-color: cornflowerblue;
     padding: 25px;
     
-}
+ } */
 
-a {
+/* a {
     background-color: gainsboro;
-    /* padding: 50px; */
-} */
+    padding: 50px;
+}  */
+
+video {
+    height: 150px;
+}
+img {
+    height: 350px;
+    background-color: deeppink;
+    border: 30px solid gray;
+    padding: 30px;
+}
+iframe {
+    height: 200px;
+    margin: 30px;
+}

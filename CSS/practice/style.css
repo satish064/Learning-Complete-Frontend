@@ -3,6 +3,22 @@ body {
 }
 
 .one {
+  height: 500px;
+  width: 500px;
+  /* font-size: 50px; */
+}
+.p {
+  background-color: bisque;
+  font-size: 10px;
+  width: 2em;
+  height: 3em;
+  /* padding: 10%; */
+  /* margin: 15%; */
+  /* outline: 5% solid red; */
+  /* border: 50% solid black; */
+  /* font-size: 50%; */
+}
+/* .one {
   outline: 50px solid greenyellow;
   border-radius: 50%;
   box-sizing: border-box;
@@ -12,4 +28,4 @@ body {
   margin: 50px;
   border: 10px solid hotpink;
   background-color: chartreuse;
-}
+} */
