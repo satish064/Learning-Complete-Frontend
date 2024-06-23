@@ -19,14 +19,14 @@ ul {
     /* position: absolute; */
     background-color: darkred;
     /* overflow-y: scroll; */
-    margin-top: -160px;
+    /* margin-top: -160px; */
 }
 
 .html-element {
     background-color: darkkhaki;
-    position: sticky;
-    margin-bottom: 15px;
-    top: -3px;
+    /* position: sticky; */
+    /* margin-bottom: 15px; */
+    /* top: -3px; */
 }
 
 .css-element {
@@ -44,4 +44,10 @@ ul {
     background-color: orange;
     /* inset: 5px; */
     margin-bottom: 15px;
+}
+
+header {
+    position: sticky;
+    background-color: greenyellow;
+    top: 50px;
 }
