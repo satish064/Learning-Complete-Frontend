@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.hashtag-header {
+   padding: 5rem;
+    /* height: 200px; */
+    background-color: #065FD4;
+    color: white;
+    background-image: url(./assets/images/background.png);
+    background-size: 341px;
+    background-repeat: no-repeat;
+    background-position-x: 100%;
+    background-position-y: -237px;
+}
+
+h3 {
+    margin: 0;
+    margin-bottom: 1rem;
+    font-size: 3.5rem;
+}
+
+.hashtag-header span {
+    font-size: 2rem;
+}
+
+.hashtag-header img {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    border: 3px solid white;
+    vertical-align: middle;
+}
+
+img + img {
+    margin-left: -1rem;
+}
