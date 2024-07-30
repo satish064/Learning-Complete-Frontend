@@ -5,7 +5,7 @@
     border: 25px solid blue;
 }
 
-@media all {
+@media all { /* we have three values all , print , screen */
     .square {
         background-color: red;
     }
